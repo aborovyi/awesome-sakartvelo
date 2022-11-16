@@ -11,20 +11,13 @@
 ## Культура
 ### Муніципальні музеї Тбілісі
 
-1. [Меморіальний музей Іллі Чавчавадзе](https://tbilisimuseumsunion.ge/en/museums/ilia-chavchavadzis-literaturul-memorialuri-muzeumi/)
-
-
-   Адреса: вул. Іване Джавахішвілі, 7
-
-
+1. [Меморіальний музей Іллі Чавчавадзе](https://tbilisimuseumsunion.ge/en/museums/ilia-chavchavadzis-literaturul-memorialuri-muzeumi/)  
+   Адреса: вул. Іване Джавахішвілі, 7  
    Тел: +995322957268
 
-2. [Меморіальний музей Галактіона Табідзе](https://tbilisimuseumsunion.ge/en/museums/galaktion-tabidzis-memorialuri-bina-muzeumi/)
-
-   Адреса: вул. Коте Марджанішвілі, 4
-
+2. [Меморіальний музей Галактіона Табідзе](https://tbilisimuseumsunion.ge/en/museums/galaktion-tabidzis-memorialuri-bina-muzeumi/)  
+   Адреса: вул. Коте Марджанішвілі, 4  
    Тел.: +995322940134
-
 
 3. [Меморіальний музей Ніколоза Бараташвілі](https://tbilisimuseumsunion.ge/en/about-us/baratashvili-beforeafter-museum/)
 
