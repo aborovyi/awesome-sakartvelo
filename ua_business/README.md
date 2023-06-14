@@ -17,7 +17,7 @@
 - Fork:<br>
   Адреса: авеню Алєксандра Казбеґі, 30<br>
   Контакти:
-  <img src="/assets/img/phone.svg" style="width:30px"/>[+995598588141](callto:+995598588141),
+  <img src="/assets/img/phone.svg" style="width:30px"/> &#xF4E7;[+995598588141](callto:+995598588141),
   [Facebook](https://www.facebook.com/forkrest1),
   [Instagram](https://www.instagram.com/forkrest/)
 - Organic Josper Grill Bar:<br>
