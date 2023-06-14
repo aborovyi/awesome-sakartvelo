@@ -9,17 +9,17 @@
 #### Тбілісі
 - Baho<br>
   вул. Казбеґі, 41<br>
-  Контакти:<br>
-  &nbsp;&nbsp;&nbsp;[Інстраграм](https://www.instagram.com/baho_tbilisi/)
+  Контакти:
+  [Інстаграм](https://www.instagram.com/baho_tbilisi/)
 
 ### Ресторани
 #### Тбілісі
 - Fork:<br>
   Адреса: авеню Алєксандра Казбеґі, 30<br>
   Контакти:<br>
-  &nbsp;&nbsp;&nbsp;Телефон: +995598588141
-  &nbsp;&nbsp;&nbsp;[Facebook](https://www.facebook.com/forkrest1)<br>
-  &nbsp;&nbsp;&nbsp;[Instagram](https://www.instagram.com/forkrest/)<br>
+  Телефон: +995598588141
+  [Facebook](https://www.facebook.com/forkrest1)
+  [Instagram](https://www.instagram.com/forkrest/)
 - Organic Josper Grill Bar:<br>
   Адреса: вул. Бамбіс Ріґі, 12<br>
   Контакти:<br>
