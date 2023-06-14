@@ -17,27 +17,27 @@
 - Fork:<br>
   Адреса: авеню Алєксандра Казбеґі, 30<br>
   Контакти:<br>
-  &nbsp;&nbsp;[+995598588141](callto:+995598588141),
+  &nbsp;&nbsp;тел: +995598588141,
   [Facebook](https://www.facebook.com/forkrest1),
   [Instagram](https://www.instagram.com/forkrest/)
 - Organic Josper Grill Bar:<br>
   Адреса: вул. Бамбіс Ріґі, 12<br>
-  Контакти:
-  Телефон: [+995593735083](tel:+995593735083),
+  Контакти:<br>
+  &nbsp;&nbsp;тел:+995593735083,
   [Facebook](https://www.facebook.com/organiquejosperbar),
   [Instagram](https://www.instagram.com/organique.josper.bar/)
 - Pan Varenik:<br>
   Адреса: авеню Алєксандра Казбеґі, 2<br>
-  Контакти:
-  Телефон: [+995555300833](tel:+995555300833)
+  Контакти:<br>
+  &nbsp;&nbsp;тел: +995555300833, 
   [Facebook](https://www.facebook.com/profile.php?id=100083560839130)
 - Ribs & Puri:<br>
   Адреса: вул. Антона Пурцеладзе, 20<br>
-  Контакти:
-  Телефон: [+995591035433](+tel:+995591035433)
-  [Facebook](https://www.facebook.com/ribs.and.puri)
-  [Instagram](https://www.instagram.com/ribs.and.puri/)
-  [веб-сторінка](https://ribsandpuri.business.site/)
+  Контакти:<br>
+  &nbsp;&nbsp;тел: +995591035433,
+  [Facebook](https://www.facebook.com/ribs.and.puri),
+  [Instagram](https://www.instagram.com/ribs.and.puri/), 
+  [веб-сторінка](https://ribsandpuri.business.site/).
 
 
 ## Продукти харчування
