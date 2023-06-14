@@ -49,7 +49,7 @@
 ### Торти
 #### Тбілісі
 
-- Cake&Dessert Ridne Bakery<br>:
+- Cake&Dessert Ridne Bakery:<br>
   Адреса: авеню Важа Пшавела, 78а<br>
   Контакти:<br>
   &nbsp;&nbsp;&nbsp;[Facebook](https://www.facebook.com/ridnebakery/)
