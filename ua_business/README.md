@@ -16,28 +16,28 @@
 #### Тбілісі
 - Fork:<br>
   Адреса: авеню Алєксандра Казбеґі, 30<br>
-  Контакти:<br>
-  Телефон: +995598588141
+  Контакти:
+  Телефон: [+995598588141](tel:+995598588141)
   [Facebook](https://www.facebook.com/forkrest1)
   [Instagram](https://www.instagram.com/forkrest/)
 - Organic Josper Grill Bar:<br>
   Адреса: вул. Бамбіс Ріґі, 12<br>
-  Контакти:<br>
-  &nbsp;&nbsp;&nbsp;Телефон: +995593735083
-  &nbsp;&nbsp;&nbsp;[Facebook](https://www.facebook.com/organiquejosperbar)<br>
-  &nbsp;&nbsp;&nbsp;[Instagram](https://www.instagram.com/organique.josper.bar/)<br>
+  Контакти:
+  Телефон: [+995593735083](tel:+995593735083)
+  [Facebook](https://www.facebook.com/organiquejosperbar)
+  [Instagram](https://www.instagram.com/organique.josper.bar/)
 - Pan Varenik:<br>
   Адреса: авеню Алєксандра Казбеґі, 2<br>
-  Контакти:<br>
-  &nbsp;&nbsp;&nbsp;Телефон: +995555300833
-  &nbsp;&nbsp;&nbsp;[Facebook](https://www.facebook.com/profile.php?id=100083560839130)<br>
+  Контакти:
+  Телефон: [+995555300833](tel:+995555300833)
+  [Facebook](https://www.facebook.com/profile.php?id=100083560839130)
 - Ribs & Puri:<br>
   Адреса: вул. Антона Пурцеладзе, 20<br>
-  Контакти:<br>
-  &nbsp;&nbsp;&nbsp;Телефон: +995591035433
-  &nbsp;&nbsp;&nbsp;[Facebook](https://www.facebook.com/ribs.and.puri)<br>
-  &nbsp;&nbsp;&nbsp;[Instagram](https://www.instagram.com/ribs.and.puri/)<br>
-  &nbsp;&nbsp;&nbsp;[веб-сторінка](https://ribsandpuri.business.site/)
+  Контакти:
+  Телефон: [+995591035433](+tel:+995591035433)
+  [Facebook](https://www.facebook.com/ribs.and.puri)
+  [Instagram](https://www.instagram.com/ribs.and.puri/)
+  [веб-сторінка](https://ribsandpuri.business.site/)
 
 
 ## Продукти харчування
