@@ -9,13 +9,35 @@
 #### Тбілісі
 - Baho<br>
   вул. Казбеґі, 41<br>
+  Контакти:<br>
+  &nbsp;&nbsp;&nbsp;[Інстраграм](https://www.instagram.com/baho_tbilisi/)
 
 ### Ресторани
 #### Тбілісі
-- Fork
-- Organic Josper
-- Pan Varenik
-- Ribs & Puri
+- Fork:<br>
+  Адреса: авеню Алєксандра Казбеґі, 30<br>
+  Контакти:<br>
+  &nbsp;&nbsp;&nbsp;Телефон: +995598588141
+  &nbsp;&nbsp;&nbsp;[Facebook](https://www.facebook.com/forkrest1)<br>
+  &nbsp;&nbsp;&nbsp;[Instagram](https://www.instagram.com/forkrest/)<br>
+- Organic Josper Grill Bar:<br>
+  Адреса: вул. Бамбіс Ріґі, 12<br>
+  Контакти:<br>
+  &nbsp;&nbsp;&nbsp;Телефон: +995593735083
+  &nbsp;&nbsp;&nbsp;[Facebook](https://www.facebook.com/organiquejosperbar)<br>
+  &nbsp;&nbsp;&nbsp;[Instagram](https://www.instagram.com/organique.josper.bar/)<br>
+- Pan Varenik:<br>
+  Адреса: авеню Алєксандра Казбеґі, 2<br>
+  Контакти:<br>
+  &nbsp;&nbsp;&nbsp;Телефон: +995555300833
+  &nbsp;&nbsp;&nbsp;[Facebook](https://www.facebook.com/profile.php?id=100083560839130)<br>
+- Ribs & Puri:<br>
+  Адреса: вул. Антона Пурцеладзе, 20<br>
+  Контакти:<br>
+  &nbsp;&nbsp;&nbsp;Телефон: +995591035433
+  &nbsp;&nbsp;&nbsp;[Facebook](https://www.facebook.com/ribs.and.puri)<br>
+  &nbsp;&nbsp;&nbsp;[Instagram](https://www.instagram.com/ribs.and.puri/)<br>
+  &nbsp;&nbsp;&nbsp;[веб-сторінка](https://ribsandpuri.business.site/)
 
 
 ## Продукти харчування
@@ -25,14 +47,37 @@
 ### Солодощі
 
 ### Торти
-- Ridne
+#### Тбілісі
+
+- Cake&Dessert Ridne Bakery<br>:
+  Адреса: авеню Важа Пшавела, 78а<br>
+  Контакти:<br>
+  &nbsp;&nbsp;&nbsp;[Facebook](https://www.facebook.com/ridnebakery/)
+  &nbsp;&nbsp;&nbsp;[Instagram](https://www.instagram.com/ridne.bakery)
+  &nbsp;&nbsp;&nbsp;[WhatsApp](https://wa.me/+995591950046)
 
 ## Транспортні перевезення
 ### Сакартвело - Україна - Сакартвело
-- Інна<br>
-  Транспорт: Мерседес Віто
-  Частота: двічі на місяць
-- 
+- Інна Устенко<br>
+  Транспорт: Мерседес Віто<br>
+  Напрямок: Тбілісі - Одеса<br>
+  Передачі: так, пасажири: так (7 осіб)<br>
+  Контакти: [Facebook](https://www.facebook.com/profile.php?id=100021800222428)
+- Дмитро<br>
+  Транспорт: мікроавтобус<br>
+  Напрямок: Тбілісі - Кременчук<br>
+  Передачі: так<br>
+  Контакти: <br>
+  - WhatsApp: +380509082677<br>
+- Наталія<br>
+  Напрямок: Батумі - Одеса<br>
+  Передачі: так, пасажири: (невідомо)<br>
+  Контакти: +380957478489<br>
+- Українська блискавка<br>
+  Транспорт: легковий автомобіль<br>
+  Напрямок: Тбілісі - Чернівці - Тбілісі<br>
+  Передачі: так, пасажири: так (3 особи)<br>
+  Контакти: [Facebook](https://www.facebook.com/profile.php?id=100073395816834)
 
 ## Ювелірні вироби
 - Guli
