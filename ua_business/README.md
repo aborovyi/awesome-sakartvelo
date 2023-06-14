@@ -17,14 +17,14 @@
 - Fork:<br>
   Адреса: авеню Алєксандра Казбеґі, 30<br>
   Контакти:
-  Телефон: [+995598588141](callto:+995598588141)
-  [Facebook](https://www.facebook.com/forkrest1)
+  Телефон: [+995598588141](callto:+995598588141),
+  [Facebook](https://www.facebook.com/forkrest1),
   [Instagram](https://www.instagram.com/forkrest/)
 - Organic Josper Grill Bar:<br>
   Адреса: вул. Бамбіс Ріґі, 12<br>
   Контакти:
-  Телефон: [+995593735083](tel:+995593735083)
-  [Facebook](https://www.facebook.com/organiquejosperbar)
+  Телефон: [+995593735083](tel:+995593735083),
+  [Facebook](https://www.facebook.com/organiquejosperbar),
   [Instagram](https://www.instagram.com/organique.josper.bar/)
 - Pan Varenik:<br>
   Адреса: авеню Алєксандра Казбеґі, 2<br>
