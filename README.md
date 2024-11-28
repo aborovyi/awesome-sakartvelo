@@ -248,7 +248,7 @@
 
 ## Ремонт комп'ютерної техніки
 
-- [Laptop Centre | ლაპტოპის შეკეთება]()<br>
+- [Laptop Centre | ლაპტოპის შეკეთება](https://www.facebook.com/LaptopCenterPRO/)<br>
   Адреса: 29, Дімітрі Узнадзе<br>
   Тел: +995597700067
 
