@@ -43,6 +43,11 @@
   &nbsp;&nbsp;&nbsp;[Instagram](https://www.instagram.com/ridne.bakery)
   &nbsp;&nbsp;&nbsp;[WhatsApp](https://wa.me/+995591950046)
 
+- Kyiv Cake.ge:
+  Контакти:<br>
+  &nbsp;&nbsp;&nbsp;[Instagram](https://www.instagram.com/kyivcake_ge/)
+
+
 ## Транспортні перевезення
 ### Сакартвело - Україна - Сакартвело
 - Дмитро<br>
